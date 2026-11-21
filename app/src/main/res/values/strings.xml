@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoldDesk</string>
+    <string name="shortcut_capture_short">Быстрая запись</string>
+    <string name="shortcut_capture_long">Записать мысль</string>
+</resources>
